@@ -1,3 +1,7 @@
+Note
+====
+This is a fork that attempts to add a normal colour selector to piskel.
+
 Piskel
 ======
 
